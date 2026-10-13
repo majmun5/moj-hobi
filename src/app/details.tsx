@@ -54,7 +54,7 @@ export default function DetailsScreen() {
         V EVE Online imaš dostop do stotine različnih ladij - od majhnih
         lovskih ladij do ogromnih bitkovnih križarjev in titanosorov. Vsaka
         ladja ima specifično vlogo in zahteva drugačno strategijo. Tehnologija
-        in oprema sta ključna za uspeh.
+        in oprema sta ključna za uspeh...
       </Text>
 
       <Image
